@@ -1,0 +1,258 @@
+id,series,fiber_core_um,collimation_mm,focus_lens_mm,material,thickness_mm,speed_m_per_min,power_w,gas,pressure_bar,nozzle_diameter_mm,nozzle_type,focus_offset_mm,cutting_height_mm,remark
+MFSC-1000X_50um_CarbonSteel_0_8mm,MFSC-1000X,50,100,125,Carbon Steel,0.8,18-20,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_1_0mm,MFSC-1000X,50,100,125,Carbon Steel,1.0,10-15,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_2_0mm,MFSC-1000X,50,100,125,Carbon Steel,2.0,4-5,1000,O2,1.5,1.0,Double,3.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_3_0mm,MFSC-1000X,50,100,125,Carbon Steel,3.0,2.5-3.2,1000,O2,0.6,1.0,Double,4.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_4_0mm,MFSC-1000X,50,100,125,Carbon Steel,4.0,2.3-2.8,1000,O2,0.6,1.0,Double,4.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_5_0mm,MFSC-1000X,50,100,125,Carbon Steel,5.0,1.8-2.1,1000,O2,0.6,1.0,Double,5.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_6_0mm,MFSC-1000X,50,100,125,Carbon Steel,6.0,1.2-1.5,1000,O2,0.6,1.0,Double,6.0,0.6,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_8_0mm,MFSC-1000X,50,100,125,Carbon Steel,8.0,1-1.1,1000,O2,0.6,1.5,Double,5.5,1.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_CarbonSteel_10_0mm,MFSC-1000X,50,100,125,Carbon Steel,10.0,0.7-0.9,1000,O2,0.6,1.5,Double,5.0,1.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_StainlessSteel_0_8mm,MFSC-1000X,50,100,125,Stainless Steel,0.8,18-22,1000,N2,10.0,2.0,Single,0.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_StainlessSteel_1_0mm,MFSC-1000X,50,100,125,Stainless Steel,1.0,13-18,1000,N2,12.0,2.0,Single,0.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_StainlessSteel_2_0mm,MFSC-1000X,50,100,125,Stainless Steel,2.0,4-6,1000,N2,12.0,2.0,Single,-1.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_StainlessSteel_3_0mm,MFSC-1000X,50,100,125,Stainless Steel,3.0,2.5-3.0,1000,N2,12.0,3.0,Single,-1.5,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_StainlessSteel_4_0mm,MFSC-1000X,50,100,125,Stainless Steel,4.0,1.0-1.5,1000,N2,14.0,3.0,Single,-2.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_StainlessSteel_5_0mm,MFSC-1000X,50,100,125,Stainless Steel,5.0,0.6-0.8,1000,N2,16.0,3.0,Single,-3.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_AluminiumAlloy_0_8mm,MFSC-1000X,50,100,125,Aluminium Alloy,0.8,18-20,1000,N2,10.0,2.0,Single,0.0,0.8,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_AluminiumAlloy_1_0mm,MFSC-1000X,50,100,125,Aluminium Alloy,1.0,10-15,1000,N2,12.0,2.0,Single,0.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_AluminiumAlloy_2_0mm,MFSC-1000X,50,100,125,Aluminium Alloy,2.0,4-5,1000,N2,14.0,2.0,Single,-1.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_AluminiumAlloy_3_0mm,MFSC-1000X,50,100,125,Aluminium Alloy,3.0,1.0-1.5,1000,N2,16.0,2.0,Single,-1.5,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_Brass_1_0mm,MFSC-1000X,50,100,125,Brass,1.0,8.0-10,1000,N2,10.0,2.0,Single,0.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_Brass_2_0mm,MFSC-1000X,50,100,125,Brass,2.0,2.0-2.5,1000,N2,14.0,2.0,Single,-1.0,0.5,Table: MFSC-1000X 50μm
+MFSC-1000X_50um_Brass_3_0mm,MFSC-1000X,50,100,125,Brass,3.0,0.8-1.0,1000,N2,16.0,3.0,Single,-1.5,0.5,Table: MFSC-1000X 50μm
+MFSC-1500X_50um_CarbonSteel_1_0mm,MFSC-1500X,50,100,125,Carbon Steel,1.0,22-25,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_2_0mm,MFSC-1500X,50,100,125,Carbon Steel,2.0,4-5,1500,O2,1.5,1.0,Double,5.0,0.6,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_3_0mm,MFSC-1500X,50,100,125,Carbon Steel,3.0,3-4,1500,O2,0.6,1.0,Double,5.0,0.6,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_4_0mm,MFSC-1500X,50,100,125,Carbon Steel,4.0,2.3-2.8,1500,O2,0.6,1.0,Double,5.0,0.6,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_5_0mm,MFSC-1500X,50,100,125,Carbon Steel,5.0,1.8-2.3,1500,O2,0.6,1.0,Double,5.0,0.6,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_6_0mm,MFSC-1500X,50,100,125,Carbon Steel,6.0,1.6-2.0,1500,O2,0.6,1.0,Double,5.0,0.6,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_8_0mm,MFSC-1500X,50,100,125,Carbon Steel,8.0,1.2-1.5,1500,O2,0.8,4.0,Double,2.0,1.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_10_0mm,MFSC-1500X,50,100,125,Carbon Steel,10.0,0.9-1.2,1500,O2,0.8,4.0,Double,2.0,1.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_12_0mm,MFSC-1500X,50,100,125,Carbon Steel,12.0,0.8,1500,O2,0.8,4.0,Double,2.0,1.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_14_0mm,MFSC-1500X,50,100,125,Carbon Steel,14.0,0.65,1500,O2,0.8,4.0,Double,2.5,1.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_CarbonSteel_16_0mm,MFSC-1500X,50,100,125,Carbon Steel,16.0,0.5,1500,O2,0.8,4.0,Double,3.0,1.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_StainlessSteel_1_0mm,MFSC-1500X,50,100,125,Stainless Steel,1.0,20-35,1500,N2,10.0,2.0,Single,0.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_StainlessSteel_2_0mm,MFSC-1500X,50,100,125,Stainless Steel,2.0,8-10,1500,N2,10.0,2.0,Single,-1.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_StainlessSteel_3_0mm,MFSC-1500X,50,100,125,Stainless Steel,3.0,4.5-5.5,1500,N2,12.0,3.0,Single,-1.5,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_StainlessSteel_5_0mm,MFSC-1500X,50,100,125,Stainless Steel,5.0,1.5-2.0,1500,N2,15.0,3.0,Single,-5.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_StainlessSteel_6_0mm,MFSC-1500X,50,100,125,Stainless Steel,6.0,0.7-0.9,1500,N2,15.0,4.0,Single,-5.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_AluminiumAlloy_1_0mm,MFSC-1500X,50,100,125,Aluminium Alloy,1.0,15-18,1500,N2,10.0,2.0,Single,0.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_AluminiumAlloy_2_0mm,MFSC-1500X,50,100,125,Aluminium Alloy,2.0,4.0-5.0,1500,N2,12.0,2.0,Single,-1.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_AluminiumAlloy_3_0mm,MFSC-1500X,50,100,125,Aluminium Alloy,3.0,1.5-2.5,1500,N2,14.0,2.5,Single,-1.5,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_AluminiumAlloy_4_0mm,MFSC-1500X,50,100,125,Aluminium Alloy,4.0,1.0-1.3,1500,N2,14.0,3.0,Single,-2.5,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_Brass_1_0mm,MFSC-1500X,50,100,125,Brass,1.0,12-15,1500,N2,10.0,3.0,Single,0.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_Brass_2_0mm,MFSC-1500X,50,100,125,Brass,2.0,4.0-5.0,1500,N2,10.0,3.0,Single,-1.0,0.5,Table: MFSC-1500X 50μm
+MFSC-1500X_50um_Brass_3_0mm,MFSC-1500X,50,100,125,Brass,3.0,1.5-2.0,1500,N2,10.0,3.0,Single,-1.0,0.5,Table: MFSC-1500X 50μm
+MFSC-2000X_50um_CarbonSteel_1_0mm,MFSC-2000X,50,100,125,Carbon Steel,1.0,25-30,2000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_2_0mm,MFSC-2000X,50,100,125,Carbon Steel,2.0,6-8,2000,N2/Air,10.0,2.0,Single,-1.0,0.5,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_3_0mm,MFSC-2000X,50,100,125,Carbon Steel,3.0,3-4,2000,O2,0.8,1.0,Double,4.0,0.6,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_4_0mm,MFSC-2000X,50,100,125,Carbon Steel,4.0,2.5-3.0,2000,O2,0.8,1.0,Double,4.0,0.6,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_5_0mm,MFSC-2000X,50,100,125,Carbon Steel,5.0,2.2-2.6,2000,O2,0.6,1.0,Double,5.0,0.6,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_6_0mm,MFSC-2000X,50,100,125,Carbon Steel,6.0,1.8-2.0,2000,O2,0.6,1.0,Double,6.0,0.8,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_8_0mm,MFSC-2000X,50,100,125,Carbon Steel,8.0,1.2-1.6,2000,O2,0.6,1.2,Double,5.5,0.8,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_10_0mm,MFSC-2000X,50,100,125,Carbon Steel,10.0,1.0-1.2,2000,O2,0.6,1.2,Double,5.0,0.8,Table: MFSC-2000X 50μm
+MFSC-2000X_50um_CarbonSteel_12_0mm,MFSC-2000X,50,100,125,Carbon Steel,12.0,0.8-1.0,2000,O2,0.6,4.0,Double,4.0,1.0,Table: MFSC-2000X 50μm
+MFSC-3000X_50um_CarbonSteel_1_0mm,MFSC-3000X,50,100,125,Carbon Steel,1.0,35-40,3000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_2_0mm,MFSC-3000X,50,100,125,Carbon Steel,2.0,20-25,3000,N2/Air,10.0,2.0,Single,-1.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_3_0mm,MFSC-3000X,50,100,125,Carbon Steel,3.0,3.5-4.5,3000,O2,0.8,1.0,Double,4.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_4_0mm,MFSC-3000X,50,100,125,Carbon Steel,4.0,3.2-4.0,3000,O2,0.8,1.0,Double,5.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_5_0mm,MFSC-3000X,50,100,125,Carbon Steel,5.0,3.0-3.5,3000,O2,0.8,1.0,Double,6.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_6_0mm,MFSC-3000X,50,100,125,Carbon Steel,6.0,2.5-3.0,3000,O2,0.8,1.0,Double,7.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_8_0mm,MFSC-3000X,50,100,125,Carbon Steel,8.0,2.0-2.3,3000,O2,0.8,1.2,Double,7.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_10_0mm,MFSC-3000X,50,100,125,Carbon Steel,10.0,1.4-1.8,3000,O2,0.8,1.2,Double,5.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_12_0mm,MFSC-3000X,50,100,125,Carbon Steel,12.0,1.2-1.4,3000,O2,0.8,4.0,Double,4.0,0.6,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_14_0mm,MFSC-3000X,50,100,125,Carbon Steel,14.0,0.8-0.9,2600,O2,0.8,4.0,Double,4.0,1.0,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_16_0mm,MFSC-3000X,50,100,125,Carbon Steel,16.0,0.7-0.9,2600,O2,0.6,4.0,Double,4.0,1.0,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_18_0mm,MFSC-3000X,50,100,125,Carbon Steel,18.0,0.65-0.75,2400,O2,0.6,4.0,Double,4.0,1.0,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_20_0mm,MFSC-3000X,50,100,125,Carbon Steel,20.0,0.6-0.7,2400,O2,0.6,5.0,Double,4.5,1.0,Table: MFSC-3000X 50μm
+MFSC-3000X_50um_CarbonSteel_22_0mm,MFSC-3000X,50,100,125,Carbon Steel,22.0,0.5-0.6,2400,O2,0.6,5.0,Double,4.5,1.0,Table: MFSC-3000X 50μm
+MFSC-4000X_50um_CarbonSteel_1_0mm,MFSC-4000X,50,100,150,Carbon Steel,1.0,40-50,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm
+MFSC-6000W_50um_CarbonSteel_1_0mm,MFSC-6000W,50,100,200,Carbon Steel,1.0,60-80,6000,N2/Air,8.0,2.0,Single,0.0,0.6,Table: MFSC-6000W 50μm
+MFSC-6000W_50um_CarbonSteel_2_0mm,MFSC-6000W,50,100,200,Carbon Steel,2.0,50-60,6000,N2/Air,8.0,3.0,Single,-0.5,0.5,Table: MFSC-6000W 50μm
+MFSC-6000W_50um_CarbonSteel_3_0mm,MFSC-6000W,50,100,200,Carbon Steel,3.0,23-28,6000,N2/Air,8.0,3.0,Single,-1.5,0.5,Table: MFSC-6000W 50μm
+MFSC-10000W_100um_CarbonSteel_1_0mm,MFSC-10000W,100,100,200,Carbon Steel,1.0,50-60,10000,N2/Air,6.0,2.0,Single,0.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_2_0mm,MFSC-10000W,100,100,200,Carbon Steel,2.0,40-45,10000,N2/Air,6.0,3.0,Single,-0.5,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_3_0mm,MFSC-10000W,100,100,200,Carbon Steel,3.0,30-33,10000,N2/Air,6.0,3.0,Single,-1.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_4_0mm,MFSC-10000W,100,100,200,Carbon Steel,4.0,22-27,10000,N2/Air,6.0,3.0,Single,-1.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_5_0mm,MFSC-10000W,100,100,200,Carbon Steel,5.0,18-20,10000,N2/Air,6.0,4.0,Single,-2.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_6_0mm,MFSC-10000W,100,100,200,Carbon Steel,6.0,14-16,10000,N2/Air,8.0,4.0,Single,-2.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_8_0mm,MFSC-10000W,100,100,200,Carbon Steel,8.0,8.0-10,10000,N2/Air,8.0,5.0,Single,-3.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_10_0mm,MFSC-10000W,100,100,200,Carbon Steel,10.0,5.0-6.0,10000,N2/Air,8.0,5.0,Single,-5.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteel_12_0mm,MFSC-10000W,100,100,200,Carbon Steel,12.0,3.5-4.5,10000,N2/Air,8.0,5.0,Single,-5.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteelMixedGasN2plusAir_8_0mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),8.0,8.0-10,10000,Mixed (N2+Air),8.0,5.0,Single,-1.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteelMixedGasN2plusAir_10_0mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),10.0,5.0-6.0,10000,Mixed (N2+Air),8.0,5.0,Single,-2.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteelMixedGasN2plusAir_12_0mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),12.0,4.0-5.0,10000,Mixed (N2+Air),8.0,5.0,Single,-4.0,0.5,Table: MFSC-10000W 100μm
+MFSC-10000W_100um_CarbonSteelMixedGasN2plusAir_16_0mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),16.0,2.0-2.5,10000,Mixed (N2+Air),10.0,5.0,Single,-7.0,0.5,Table: MFSC-10000W 100μm
+"MFSC-10000W_100um_CarbonSteelO2,negativefocus_12_0mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",12.0,3.0-3.4,10000,O2,1.0,1.8,Double,-9.0,2.0,Table: MFSC-10000W 100μm
+"MFSC-10000W_100um_CarbonSteelO2,negativefocus_16_0mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",16.0,2.2-2.6,10000,O2,1.0,1.8,Double,-10.0,2.0,Table: MFSC-10000W 100μm
+"MFSC-10000W_100um_CarbonSteelO2,negativefocus_20_0mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",20.0,1.5-1.8,10000,O2,1.0,2.0,Double,-11.0,2.5,Table: MFSC-10000W 100μm
+"MFSC-10000W_100um_CarbonSteelO2,negativefocus_25_0mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",25.0,1.0-1.1,10000,O2,1.0,2.0,Double,-13.0,2.5,Table: MFSC-10000W 100μm
+MFSC-12000W_50um_CarbonSteel_1_0mm,MFSC-12000W,50,100,200,Carbon Steel,1.0,60-80,12000,N2/Air,8.0,2.0,Single,0.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_2_0mm,MFSC-12000W,50,100,200,Carbon Steel,2.0,45-50,12000,N2/Air,8.0,3.0,Single,-0.5,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_3_0mm,MFSC-12000W,50,100,200,Carbon Steel,3.0,32-38,12000,N2/Air,8.0,3.0,Single,-1.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_4_0mm,MFSC-12000W,50,100,200,Carbon Steel,4.0,23-28,12000,N2/Air,8.0,3.0,Single,-1.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_5_0mm,MFSC-12000W,50,100,200,Carbon Steel,5.0,20-23,12000,N2/Air,8.0,4.0,Single,-2.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_6_0mm,MFSC-12000W,50,100,200,Carbon Steel,6.0,16-20,12000,N2/Air,8.0,4.0,Single,-2.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_8_0mm,MFSC-12000W,50,100,200,Carbon Steel,8.0,10-13,12000,N2/Air,8.0,5.0,Single,-3.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_10_0mm,MFSC-12000W,50,100,200,Carbon Steel,10.0,5.5-7.5,12000,N2/Air,10.0,5.0,Single,-3.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteel_12_0mm,MFSC-12000W,50,100,200,Carbon Steel,12.0,4.0-5.5,12000,N2/Air,16.0,5.0,Single,-3.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteelO2_8_0mm,MFSC-12000W,50,100,200,Carbon Steel (O2),8.0,2.3-2.5,4000,O2,0.6,1.2,Double,10.0,0.6,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteelO2_10_0mm,MFSC-12000W,50,100,200,Carbon Steel (O2),10.0,2.0-2.2,6000,O2,0.6,1.2,Double,11.0,0.6,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_CarbonSteelO2_12_0mm,MFSC-12000W,50,100,200,Carbon Steel (O2),12.0,1.8-2.0,6000,O2,0.6,1.2,Double,12.0,0.6,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_1_0mm,MFSC-12000W,50,100,200,Copper,1.0,50-60,12000,O2,8.0,3.0,Single,0.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_2_0mm,MFSC-12000W,50,100,200,Copper,2.0,40-50,12000,O2,8.0,3.0,Single,0.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_3_0mm,MFSC-12000W,50,100,200,Copper,3.0,30-36,12000,O2,10.0,3.0,Single,-1.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_4_0mm,MFSC-12000W,50,100,200,Copper,4.0,20-24,12000,O2,12.0,3.5,Single,-2.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_5_0mm,MFSC-12000W,50,100,200,Copper,5.0,15-18,12000,O2,13.0,4.5,Single,-2.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_6_0mm,MFSC-12000W,50,100,200,Copper,6.0,9.0-11,12000,O2,14.0,5.0,Single,-3.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_8_0mm,MFSC-12000W,50,100,200,Copper,8.0,6.0-7.0,12000,O2,14.0,5.0,Single,-3.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_10_0mm,MFSC-12000W,50,100,200,Copper,10.0,3.0-3.5,12000,O2,16.0,5.0,Single,-4.0,0.5,Table: MFSC-12000W 50μm
+MFSC-12000W_50um_Copper_12_0mm,MFSC-12000W,50,100,200,Copper,12.0,2.0-2.5,12000,O2,16.0,5.0,Single,-4.0,0.5,Table: MFSC-12000W 50μm
+MFSC-10000W_100um_Carbon Steel_14mm,MFSC-10000W,100,100,200,Carbon Steel,14.0,3.1~4.7,10000,N2/Air,8.91,6.08,Single,-6.22,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel_16mm,MFSC-10000W,100,100,200,Carbon Steel,16.0,2.8~4.1,10000,N2/Air,9.39,6.63,Single,-7.19,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel_18mm,MFSC-10000W,100,100,200,Carbon Steel,18.0,2.4~3.7,10000,N2/Air,9.88,7.18,Single,-8.17,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel_20mm,MFSC-10000W,100,100,200,Carbon Steel,20.0,2.2~3.3,10000,N2/Air,10.36,7.73,Single,-9.14,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_1mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),1.0,10.8~16.2,10000,Mixed (N2+Air),5.8,5.0,Single,4.6,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_2mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),2.0,10.2~15.3,10000,Mixed (N2+Air),6.06,5.0,Single,3.83,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_3mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),3.0,9.6~14.4,10000,Mixed (N2+Air),6.31,5.0,Single,3.06,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_4mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),4.0,8.9~13.4,10000,Mixed (N2+Air),6.57,5.0,Single,2.29,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_5mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),5.0,8.3~12.5,10000,Mixed (N2+Air),6.83,5.0,Single,1.51,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_6mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),6.0,7.7~11.5,10000,Mixed (N2+Air),7.09,5.0,Single,0.74,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_14mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),14.0,2.7~4.0,10000,Mixed (N2+Air),9.14,5.0,Single,-5.43,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_18mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),18.0,0.18~0.27,10000,Mixed (N2+Air),10.17,5.0,Single,-8.51,0.5,Table: MFSC-10000W 100μm | generated
+MFSC-10000W_100um_Carbon Steel (Mixed Gas N2+Air)_20mm,MFSC-10000W,100,100,200,Carbon Steel (Mixed Gas N2+Air),20.0,2.9~4.3,10000,Mixed (N2+Air),10.69,5.0,Single,-10.06,0.5,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_1mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",1.0,4.0~5.9,10000,O2,1.0,1.58,Double,-5.5,1.46,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_2mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",2.0,3.8~5.7,10000,O2,1.0,1.6,Double,-5.8,1.51,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_3mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",3.0,3.7~5.5,10000,O2,1.0,1.62,Double,-6.11,1.55,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_4mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",4.0,3.6~5.3,10000,O2,1.0,1.64,Double,-6.41,1.6,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_5mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",5.0,3.4~5.1,10000,O2,1.0,1.66,Double,-6.71,1.64,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_6mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",6.0,3.3~4.9,10000,O2,1.0,1.68,Double,-7.02,1.69,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_8mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",8.0,3.0~4.5,10000,O2,1.0,1.71,Double,-7.63,1.78,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_10mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",10.0,2.8~4.1,10000,O2,1.0,1.75,Double,-8.24,1.87,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_14mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",14.0,2.2~3.3,10000,O2,1.0,1.82,Double,-9.46,2.06,Table: MFSC-10000W 100μm | generated
+"MFSC-10000W_100um_Carbon Steel (O2, negative focus)_18mm",MFSC-10000W,100,100,200,"Carbon Steel (O2, negative focus)",18.0,1.7~2.5,10000,O2,1.0,1.9,Double,-10.67,2.24,Table: MFSC-10000W 100μm | generated
+MFSC-1000X_50um_Aluminium Alloy_4mm,MFSC-1000X,50,100,125,Aluminium Alloy,4.0,3.0~4.6,1000,N2,18.68,2.0,Single,-2.31,0.37,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Aluminium Alloy_5mm,MFSC-1000X,50,100,125,Aluminium Alloy,5.0,2.4~3.6,1000,N2,21.14,2.0,Single,-3.04,0.29,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Aluminium Alloy_6mm,MFSC-1000X,50,100,125,Aluminium Alloy,6.0,2.0~3.0,1000,N2,23.61,2.0,Single,-3.77,0.2,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Aluminium Alloy_8mm,MFSC-1000X,50,100,125,Aluminium Alloy,8.0,1.5~2.3,1000,N2,28.55,2.0,Single,-5.23,0.02,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Aluminium Alloy_10mm,MFSC-1000X,50,100,125,Aluminium Alloy,10.0,1.2~1.8,1000,N2,33.48,2.0,Single,-6.69,-0.15,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Aluminium Alloy_12mm,MFSC-1000X,50,100,125,Aluminium Alloy,12.0,1.0~1.5,1000,N2,38.42,2.0,Single,-8.15,-0.33,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Brass_4mm,MFSC-1000X,50,100,125,Brass,4.0,1.8~2.7,1000,N2,19.33,3.33,Single,-2.33,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Brass_5mm,MFSC-1000X,50,100,125,Brass,5.0,1.4~2.2,1000,N2,22.33,3.83,Single,-3.08,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Brass_6mm,MFSC-1000X,50,100,125,Brass,6.0,1.2~1.8,1000,N2,25.33,4.33,Single,-3.83,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Brass_8mm,MFSC-1000X,50,100,125,Brass,8.0,0.9~1.3,1000,N2,31.33,5.33,Single,-5.33,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Brass_10mm,MFSC-1000X,50,100,125,Brass,10.0,0.7~1.1,1000,N2,37.33,6.33,Single,-6.83,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Brass_12mm,MFSC-1000X,50,100,125,Brass,12.0,0.60~0.90,1000,N2,43.33,7.33,Single,-8.33,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_2mm,MFSC-1000X,50,100,125,Carbon Steel,2.0,6.1~9.1,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_3mm,MFSC-1000X,50,100,125,Carbon Steel,3.0,4.1~6.1,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_4mm,MFSC-1000X,50,100,125,Carbon Steel,4.0,3.0~4.6,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_5mm,MFSC-1000X,50,100,125,Carbon Steel,5.0,2.4~3.6,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_6mm,MFSC-1000X,50,100,125,Carbon Steel,6.0,2.0~3.0,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_8mm,MFSC-1000X,50,100,125,Carbon Steel,8.0,1.5~2.3,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_10mm,MFSC-1000X,50,100,125,Carbon Steel,10.0,1.2~1.8,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_12mm,MFSC-1000X,50,100,125,Carbon Steel,12.0,1.0~1.5,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_14mm,MFSC-1000X,50,100,125,Carbon Steel,14.0,0.9~1.3,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_16mm,MFSC-1000X,50,100,125,Carbon Steel,16.0,0.8~1.1,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_18mm,MFSC-1000X,50,100,125,Carbon Steel,18.0,0.7~1.0,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_20mm,MFSC-1000X,50,100,125,Carbon Steel,20.0,0.61~0.91,1000,N2/Air,11.0,2.0,Single,0.0,0.6,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Carbon Steel_1mm,MFSC-1000X,50,100,125,Carbon Steel,1.0,3.2~4.8,1000,O2,1.01,0.81,Double,3.48,0.26,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Stainless Steel_6mm,MFSC-1000X,50,100,125,Stainless Steel,6.0,2.1~3.2,1000,N2,16.47,3.48,Single,-3.59,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Stainless Steel_8mm,MFSC-1000X,50,100,125,Stainless Steel,8.0,1.6~2.4,1000,N2,18.73,4.07,Single,-4.98,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Stainless Steel_10mm,MFSC-1000X,50,100,125,Stainless Steel,10.0,1.3~1.9,1000,N2,21.0,4.65,Single,-6.37,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Stainless Steel_12mm,MFSC-1000X,50,100,125,Stainless Steel,12.0,1.1~1.6,1000,N2,23.26,5.24,Single,-7.76,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-1000X_50um_Stainless Steel_14mm,MFSC-1000X,50,100,125,Stainless Steel,14.0,0.9~1.4,1000,N2,25.52,5.82,Single,-9.15,0.5,Table: MFSC-1000X 50μm | generated
+MFSC-12000W_50um_Carbon Steel_14mm,MFSC-12000W,50,100,200,Carbon Steel,14.0,4.0~6.0,12000,N2/Air,13.61,6.08,Single,-4.16,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel_16mm,MFSC-12000W,50,100,200,Carbon Steel,16.0,3.5~5.2,12000,N2/Air,14.68,6.63,Single,-4.74,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel_18mm,MFSC-12000W,50,100,200,Carbon Steel,18.0,3.1~4.7,12000,N2/Air,15.76,7.18,Single,-5.33,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel_20mm,MFSC-12000W,50,100,200,Carbon Steel,20.0,2.8~4.2,12000,N2/Air,16.84,7.73,Single,-5.91,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_1mm,MFSC-12000W,50,100,200,Carbon Steel (O2),1.0,2.6~3.9,833,O2,0.6,1.2,Double,6.5,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_2mm,MFSC-12000W,50,100,200,Carbon Steel (O2),2.0,2.5~3.8,1333,O2,0.6,1.2,Double,7.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_3mm,MFSC-12000W,50,100,200,Carbon Steel (O2),3.0,2.4~3.6,1833,O2,0.6,1.2,Double,7.5,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_4mm,MFSC-12000W,50,100,200,Carbon Steel (O2),4.0,2.3~3.5,2333,O2,0.6,1.2,Double,8.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_5mm,MFSC-12000W,50,100,200,Carbon Steel (O2),5.0,2.2~3.3,2833,O2,0.6,1.2,Double,8.5,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_6mm,MFSC-12000W,50,100,200,Carbon Steel (O2),6.0,2.1~3.2,3333,O2,0.6,1.2,Double,9.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_14mm,MFSC-12000W,50,100,200,Carbon Steel (O2),14.0,1.3~2.0,7333,O2,0.6,1.2,Double,13.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_16mm,MFSC-12000W,50,100,200,Carbon Steel (O2),16.0,1.1~1.7,8333,O2,0.6,1.2,Double,14.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_18mm,MFSC-12000W,50,100,200,Carbon Steel (O2),18.0,0.9~1.4,9333,O2,0.6,1.2,Double,15.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Carbon Steel (O2)_20mm,MFSC-12000W,50,100,200,Carbon Steel (O2),20.0,0.7~1.1,10333,O2,0.6,1.2,Double,16.0,0.6,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Copper_0_8mm,MFSC-12000W,50,100,200,Copper,0.8,35.3~52.9,12000,O2,8.53,3.01,Single,-0.19,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Copper_1_5mm,MFSC-12000W,50,100,200,Copper,1.5,32.7~49.0,12000,O2,9.08,3.17,Single,-0.47,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-12000W_50um_Copper_2_5mm,MFSC-12000W,50,100,200,Copper,2.5,29.0~43.4,12000,O2,9.86,3.4,Single,-0.86,0.5,Table: MFSC-12000W 50μm | generated
+MFSC-1500X_50um_Aluminium Alloy_0_8mm,MFSC-1500X,50,100,125,Aluminium Alloy,0.8,11.4~17.1,1500,N2,10.12,1.78,Single,0.11,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Aluminium Alloy_5mm,MFSC-1500X,50,100,125,Aluminium Alloy,5.0,2.6~4.0,1500,N2,16.0,3.25,Single,-3.25,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Aluminium Alloy_6mm,MFSC-1500X,50,100,125,Aluminium Alloy,6.0,2.2~3.3,1500,N2,17.4,3.6,Single,-4.05,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Aluminium Alloy_8mm,MFSC-1500X,50,100,125,Aluminium Alloy,8.0,1.7~2.5,1500,N2,20.2,4.3,Single,-5.65,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Aluminium Alloy_10mm,MFSC-1500X,50,100,125,Aluminium Alloy,10.0,1.3~2.0,1500,N2,23.0,5.0,Single,-7.25,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Aluminium Alloy_12mm,MFSC-1500X,50,100,125,Aluminium Alloy,12.0,1.1~1.6,1500,N2,25.8,5.7,Single,-8.85,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Brass_4mm,MFSC-1500X,50,100,125,Brass,4.0,2.7~4.0,1500,N2,10.0,3.0,Single,-1.67,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Brass_5mm,MFSC-1500X,50,100,125,Brass,5.0,2.2~3.2,1500,N2,10.0,3.0,Single,-2.17,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Brass_6mm,MFSC-1500X,50,100,125,Brass,6.0,1.8~2.7,1500,N2,10.0,3.0,Single,-2.67,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Brass_8mm,MFSC-1500X,50,100,125,Brass,8.0,1.4~2.0,1500,N2,10.0,3.0,Single,-3.67,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Brass_10mm,MFSC-1500X,50,100,125,Brass,10.0,1.1~1.6,1500,N2,10.0,3.0,Single,-4.67,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Brass_12mm,MFSC-1500X,50,100,125,Brass,12.0,0.9~1.3,1500,N2,10.0,3.0,Single,-5.67,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_2mm,MFSC-1500X,50,100,125,Carbon Steel,2.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_3mm,MFSC-1500X,50,100,125,Carbon Steel,3.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_4mm,MFSC-1500X,50,100,125,Carbon Steel,4.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_5mm,MFSC-1500X,50,100,125,Carbon Steel,5.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_6mm,MFSC-1500X,50,100,125,Carbon Steel,6.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_8mm,MFSC-1500X,50,100,125,Carbon Steel,8.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_10mm,MFSC-1500X,50,100,125,Carbon Steel,10.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_12mm,MFSC-1500X,50,100,125,Carbon Steel,12.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_14mm,MFSC-1500X,50,100,125,Carbon Steel,14.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_16mm,MFSC-1500X,50,100,125,Carbon Steel,16.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_18mm,MFSC-1500X,50,100,125,Carbon Steel,18.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_20mm,MFSC-1500X,50,100,125,Carbon Steel,20.0,18.8~28.2,1500,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Carbon Steel_1mm,MFSC-1500X,50,100,125,Carbon Steel,1.0,2.9~4.3,1500,O2,0.84,0.5,Double,5.28,0.45,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Stainless Steel_0_8mm,MFSC-1500X,50,100,125,Stainless Steel,0.8,16.2~24.3,1500,N2,9.35,1.83,Single,0.37,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Stainless Steel_4mm,MFSC-1500X,50,100,125,Stainless Steel,4.0,4.9~7.4,1500,N2,13.1,3.02,Single,-3.16,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Stainless Steel_8mm,MFSC-1500X,50,100,125,Stainless Steel,8.0,2.8~4.1,1500,N2,17.8,4.51,Single,-7.58,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Stainless Steel_10mm,MFSC-1500X,50,100,125,Stainless Steel,10.0,2.2~3.3,1500,N2,20.15,5.26,Single,-9.79,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Stainless Steel_12mm,MFSC-1500X,50,100,125,Stainless Steel,12.0,1.8~2.7,1500,N2,22.5,6.0,Single,-12.0,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-1500X_50um_Stainless Steel_14mm,MFSC-1500X,50,100,125,Stainless Steel,14.0,1.6~2.4,1500,N2,24.85,6.74,Single,-14.21,0.5,Table: MFSC-1500X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_3mm,MFSC-2000X,50,100,125,Carbon Steel,3.0,7.3~11.0,2000,N2/Air,10.0,2.0,Single,-2.0,0.4,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_4mm,MFSC-2000X,50,100,125,Carbon Steel,4.0,5.5~8.2,2000,N2/Air,10.0,2.0,Single,-3.0,0.3,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_5mm,MFSC-2000X,50,100,125,Carbon Steel,5.0,4.4~6.6,2000,N2/Air,10.0,2.0,Single,-4.0,0.2,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_6mm,MFSC-2000X,50,100,125,Carbon Steel,6.0,3.7~5.5,2000,N2/Air,10.0,2.0,Single,-5.0,0.1,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_8mm,MFSC-2000X,50,100,125,Carbon Steel,8.0,2.8~4.1,2000,N2/Air,10.0,2.0,Single,-7.0,-0.1,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_10mm,MFSC-2000X,50,100,125,Carbon Steel,10.0,2.2~3.3,2000,N2/Air,10.0,2.0,Single,-9.0,-0.3,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_12mm,MFSC-2000X,50,100,125,Carbon Steel,12.0,1.8~2.7,2000,N2/Air,10.0,2.0,Single,-11.0,-0.5,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_14mm,MFSC-2000X,50,100,125,Carbon Steel,14.0,1.6~2.4,2000,N2/Air,10.0,2.0,Single,-13.0,-0.7,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_16mm,MFSC-2000X,50,100,125,Carbon Steel,16.0,1.4~2.1,2000,N2/Air,10.0,2.0,Single,-15.0,-0.9,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_18mm,MFSC-2000X,50,100,125,Carbon Steel,18.0,1.2~1.8,2000,N2/Air,10.0,2.0,Single,-17.0,-1.1,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_20mm,MFSC-2000X,50,100,125,Carbon Steel,20.0,1.1~1.6,2000,N2/Air,10.0,2.0,Single,-19.0,-1.3,Table: MFSC-2000X 50μm | generated
+MFSC-2000X_50um_Carbon Steel_1mm,MFSC-2000X,50,100,125,Carbon Steel,1.0,3.5~5.3,2000,O2,1.06,0.3,Double,4.02,0.52,Table: MFSC-2000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_3mm,MFSC-3000X,50,100,125,Carbon Steel,3.0,6.0~9.0,3000,N2/Air,10.0,2.0,Single,-2.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_4mm,MFSC-3000X,50,100,125,Carbon Steel,4.0,7.5~11.2,3000,N2/Air,10.0,2.0,Single,-3.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_5mm,MFSC-3000X,50,100,125,Carbon Steel,5.0,6.0~9.0,3000,N2/Air,10.0,2.0,Single,-4.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_6mm,MFSC-3000X,50,100,125,Carbon Steel,6.0,5.0~7.5,3000,N2/Air,10.0,2.0,Single,-5.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_8mm,MFSC-3000X,50,100,125,Carbon Steel,8.0,3.8~5.6,3000,N2/Air,10.0,2.0,Single,-7.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_10mm,MFSC-3000X,50,100,125,Carbon Steel,10.0,3.0~4.5,3000,N2/Air,10.0,2.0,Single,-9.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_12mm,MFSC-3000X,50,100,125,Carbon Steel,12.0,2.5~3.8,3000,N2/Air,10.0,2.0,Single,-11.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_14mm,MFSC-3000X,50,100,125,Carbon Steel,14.0,2.1~3.2,3000,N2/Air,10.0,2.0,Single,-13.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_16mm,MFSC-3000X,50,100,125,Carbon Steel,16.0,1.9~2.8,3000,N2/Air,10.0,2.0,Single,-15.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_18mm,MFSC-3000X,50,100,125,Carbon Steel,18.0,1.7~2.5,3000,N2/Air,10.0,2.0,Single,-17.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_20mm,MFSC-3000X,50,100,125,Carbon Steel,20.0,1.5~2.2,3000,N2/Air,10.0,2.0,Single,-19.0,0.6,Table: MFSC-3000X 50μm | generated
+MFSC-3000X_50um_Carbon Steel_1mm,MFSC-3000X,50,100,125,Carbon Steel,1.0,3.4~5.0,3000,O2,1.02,0.23,Double,5.17,0.5,Table: MFSC-3000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_2mm,MFSC-4000X,50,100,150,Carbon Steel,2.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_3mm,MFSC-4000X,50,100,150,Carbon Steel,3.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_4mm,MFSC-4000X,50,100,150,Carbon Steel,4.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_5mm,MFSC-4000X,50,100,150,Carbon Steel,5.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_6mm,MFSC-4000X,50,100,150,Carbon Steel,6.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_8mm,MFSC-4000X,50,100,150,Carbon Steel,8.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_10mm,MFSC-4000X,50,100,150,Carbon Steel,10.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_12mm,MFSC-4000X,50,100,150,Carbon Steel,12.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_14mm,MFSC-4000X,50,100,150,Carbon Steel,14.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_16mm,MFSC-4000X,50,100,150,Carbon Steel,16.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_18mm,MFSC-4000X,50,100,150,Carbon Steel,18.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-4000X_50um_Carbon Steel_20mm,MFSC-4000X,50,100,150,Carbon Steel,20.0,36.0~54.0,4000,N2/Air,10.0,2.0,Single,0.0,0.6,Table: MFSC-4000X 50μm | generated
+MFSC-6000W_50um_Carbon Steel_4mm,MFSC-6000W,50,100,200,Carbon Steel,4.0,4.5~6.8,6000,N2/Air,8.0,3.67,Single,-2.17,0.43,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_5mm,MFSC-6000W,50,100,200,Carbon Steel,5.0,11.2~16.8,6000,N2/Air,8.0,4.17,Single,-2.92,0.38,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_6mm,MFSC-6000W,50,100,200,Carbon Steel,6.0,9.3~14.0,6000,N2/Air,8.0,4.67,Single,-3.67,0.33,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_8mm,MFSC-6000W,50,100,200,Carbon Steel,8.0,7.0~10.5,6000,N2/Air,8.0,5.67,Single,-5.17,0.23,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_10mm,MFSC-6000W,50,100,200,Carbon Steel,10.0,5.6~8.4,6000,N2/Air,8.0,6.67,Single,-6.67,0.13,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_12mm,MFSC-6000W,50,100,200,Carbon Steel,12.0,4.7~7.0,6000,N2/Air,8.0,7.67,Single,-8.17,0.03,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_14mm,MFSC-6000W,50,100,200,Carbon Steel,14.0,4.0~6.0,6000,N2/Air,8.0,8.67,Single,-9.67,-0.07,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_16mm,MFSC-6000W,50,100,200,Carbon Steel,16.0,3.5~5.2,6000,N2/Air,8.0,9.67,Single,-11.17,-0.17,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_18mm,MFSC-6000W,50,100,200,Carbon Steel,18.0,3.1~4.7,6000,N2/Air,8.0,10.67,Single,-12.67,-0.27,Table: MFSC-6000W 50μm | generated
+MFSC-6000W_50um_Carbon Steel_20mm,MFSC-6000W,50,100,200,Carbon Steel,20.0,2.8~4.2,6000,N2/Air,8.0,11.67,Single,-14.17,-0.37,Table: MFSC-6000W 50μm | generated
